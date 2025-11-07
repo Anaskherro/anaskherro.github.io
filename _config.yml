@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Anas Kherro | Academic Portfolio"
 title_separator          : "-"
 name                     : &name "Anas Kherro"
 description              : &description "Anas Kherro's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -30,7 +30,7 @@ author:
   location         : "Rabat, Morocco"
   employer         : "Mohamed VI Polytechnic University (UM6P)"
   uri              : https://um6p.ma
-  email            : "anaskherro@um6p.ma" 
+  email            : "anas.kherro@um6p.ma" 
 
   # Academic websites
   academia         : # URL
